@@ -77,3 +77,5 @@ class ViewController: UIViewController {
     
 }
 
+// Improve input values in private color variable (input values of sliders)
+// add color changing to start so the saved color from the previous session is displayed
